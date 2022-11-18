@@ -1,0 +1,1 @@
+I'm currently working on my first git project. I am creating a basic website. I'll revist later on to see my progress.
